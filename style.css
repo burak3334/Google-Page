@@ -94,3 +94,68 @@ input{
     font-size: 20px;
     margin-bottom: 5px;
 }
+
+#mer{
+    width: 25px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#micro{
+    margin-left: 25px;
+    width: 19px;
+}
+
+a{
+    text-decoration: none;
+    margin: 0px 5px;
+}
+
+.lucky{
+    margin: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+.lucky button:hover{
+    box-shadow: rgba(0, 0, 0, 0.5);
+    border: 1px solid lightgray;
+}
+
+.lang a{
+    text-decoration: underline;
+    color: #000080;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px ;
+}
+
+.lang a:visited{
+    color: #000080;
+}
+
+.lucky1, .lucky2{
+    background-color: #F8F9FA;
+    width: 145px;
+    height: 35px;
+    border: none;
+    border-radius: 10px;
+    color: #202124;
+    margin: 25px 0px;
+}
+
+.header1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:15px ;
+}
+.header2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:14px ;
+}
+
+a:visited{
+    color: #70757A;
+}
+
+nav a:hover, .header2 a:hover{
+    text-decoration: underline;
+ }
